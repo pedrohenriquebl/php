@@ -1,6 +1,6 @@
 <?php
 
-		echo "tes oote";
+		echo "teas oote";
 
 
 
